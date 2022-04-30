@@ -1,0 +1,10 @@
+<RCC>
+    <qresource>
+        <file>Resources/Images/Sound.png</file>
+        <file>Resources/Images/Icon.jpg</file>
+        <file>Resources/InputTasks/EasyInputTasks.txt</file>
+        <file>Resources/Music/sound1.mp3</file>
+        <file>Resources/Music/sound2.mp3</file>
+        <file>Resources/Music/sound3.mp3</file>
+    </qresource>
+</RCC>
